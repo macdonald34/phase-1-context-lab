@@ -20,4 +20,3 @@ const allWagesFor = function () {
 
     return payable
 }
-
